@@ -1,7 +1,7 @@
 # euler_1_solution
 To build the program, run:
 
-```
+```bash
 java euler_1_solution.java
 ```
 
