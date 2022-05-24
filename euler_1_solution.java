@@ -1,7 +1,7 @@
 
 public class euler_1_solution {
 
-	public static void addNums(int x) {
+	private static void addNums(int x) {
 		int ans = 0, i = 0;
 		while (i != x) {
 			if (i % 3 == 0 || i % 5 == 0) {
