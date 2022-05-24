@@ -2,6 +2,8 @@
 To build the program, run:
 
 ```bash
+#!/bin/bash
+
 java euler_1_solution.java
 ```
 
