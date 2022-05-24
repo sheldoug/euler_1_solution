@@ -1,5 +1,5 @@
 
-public class multiples {
+public class euler_1_solution {
 
 	public static void addNums(int x) {
 		int ans = 0, i = 0;
