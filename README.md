@@ -5,8 +5,14 @@ To build the program, run:
 #!/bin/bash
 
 java euler_1_solution.java
+
+# ... and then something to make a jar ...
 ```
 
-To run the program to find the solition for X=100: 
+To run the program to find the solution for X=1000: 
 
-In main method, replace addNum's parameter with 1000
+```bash
+#!/bin/bash
+
+java -jar euler_1_solution.jar 1000
+```
