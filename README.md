@@ -1,7 +1,7 @@
 # euler_1_solution
 To build the program, run:
 
-euler_1_solution.java
+java euler_1_solution.java
 
 To run the program to find the solition for X=100: 
 
