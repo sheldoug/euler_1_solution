@@ -2,7 +2,7 @@ import sys
 
 print("Enter value: ")
 def euler(x):
-    x = int(input(sys.argv[0]), base = 0)
+    x = int(input(), base = 0)
     ans = 0
     i = 0
     while i < x:
