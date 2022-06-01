@@ -1,7 +1,8 @@
 import sys
 
+print("Enter value: ")
 def euler(x):
-    x = len(sys.argv)
+    x = int(input(sys.argv[0]), base = 0)
     ans = 0
     i = 0
     while i < x:
@@ -11,5 +12,5 @@ def euler(x):
 
     print(ans)
 
-euler(sys.argv[0])
+euler(sys.argv)
 
